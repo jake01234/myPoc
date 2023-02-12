@@ -5,8 +5,7 @@ spring.datasource.password = password
 
 2. run this program
 
-3.
-for your first user, you need to use POSTMAN
+3.for your first user, you need to use POSTMAN
 
 POST
 http://localhost:9191/api/auth/signup
@@ -23,6 +22,5 @@ http://localhost:9191/api/auth/signup
 "phone": "12345678"
 }
 
-4.go to 
-http://localhost:9191/
+4.go to http://localhost:9191/
 login with the credential you just created
