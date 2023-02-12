@@ -1,5 +1,6 @@
 # myPoc
 1.go to properties change the following db info as yours.
+
 spring.datasource.username = root
 spring.datasource.password = password
 
