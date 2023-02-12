@@ -3,7 +3,7 @@
 spring.datasource.username = root
 spring.datasource.password = password
 
-2. run this program
+2.run this program
 
 3.for your first user, you need to use POSTMAN
 
